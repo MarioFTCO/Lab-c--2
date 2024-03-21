@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Documentos\Visual Studio 2022\Proyectos\Taller3 c#\Taller3 c#\bin\Debug\net8.0\Taller3 c#.exe
+C:\Users\USER\OneDrive\Documentos\Visual Studio 2022\Proyectos\Taller3 c#\Taller3 c#\bin\Debug\net8.0\Taller3 c#.deps.json
+C:\Users\USER\OneDrive\Documentos\Visual Studio 2022\Proyectos\Taller3 c#\Taller3 c#\bin\Debug\net8.0\Taller3 c#.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Visual Studio 2022\Proyectos\Taller3 c#\Taller3 c#\bin\Debug\net8.0\Taller3 c#.dll
+C:\Users\USER\OneDrive\Documentos\Visual Studio 2022\Proyectos\Taller3 c#\Taller3 c#\bin\Debug\net8.0\Taller3 c#.pdb
+C:\Users\USER\OneDrive\Documentos\Visual Studio 2022\Proyectos\Taller3 c#\Taller3 c#\obj\Debug\net8.0\Taller3 c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Visual Studio 2022\Proyectos\Taller3 c#\Taller3 c#\obj\Debug\net8.0\Taller3 c#.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Visual Studio 2022\Proyectos\Taller3 c#\Taller3 c#\obj\Debug\net8.0\Taller3 c#.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Visual Studio 2022\Proyectos\Taller3 c#\Taller3 c#\obj\Debug\net8.0\Taller3 c#.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Visual Studio 2022\Proyectos\Taller3 c#\Taller3 c#\obj\Debug\net8.0\Taller3 c#.dll
+C:\Users\USER\OneDrive\Documentos\Visual Studio 2022\Proyectos\Taller3 c#\Taller3 c#\obj\Debug\net8.0\refint\Taller3 c#.dll
+C:\Users\USER\OneDrive\Documentos\Visual Studio 2022\Proyectos\Taller3 c#\Taller3 c#\obj\Debug\net8.0\Taller3 c#.pdb
+C:\Users\USER\OneDrive\Documentos\Visual Studio 2022\Proyectos\Taller3 c#\Taller3 c#\obj\Debug\net8.0\Taller3 c#.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documentos\Visual Studio 2022\Proyectos\Taller3 c#\Taller3 c#\obj\Debug\net8.0\ref\Taller3 c#.dll
+C:\Users\USER\OneDrive\Documentos\Visual Studio 2022\Proyectos\Taller3 c#\Taller3 c#\obj\Debug\net8.0\Taller3 c#.sourcelink.json
