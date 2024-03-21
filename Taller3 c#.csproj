@@ -8,8 +8,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\USER\Downloads\Program.rar" Link="Program.rar" />
-  </ItemGroup>
-
 </Project>
